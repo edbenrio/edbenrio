@@ -1,4 +1,3 @@
-markdown
 # Hi 👋, I'm Edgar Cano Maciel
 
 ### Senior Full Stack Developer | Laravel • Vue 3 • Inertia.js • Flutter
@@ -24,4 +23,4 @@ Senior Full Stack Developer con más de 10 años de experiencia real en sistemas
 
 📫 **¿Quieres hablar de proyectos o vacantes remotas?**  
 Puedes contactarme directamente en: [edgarrubendario@gmail.com](mailto:edgarrubendario@gmail.com)  
-📍 Disponible para trabajo remoto a tiempo completo (Zona horaria UTC-
+📍 Disponible para trabajo remoto a tiempo completo (Zona horaria UTC-3)
